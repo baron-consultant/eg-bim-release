@@ -1,3 +1,3 @@
 # ea-bim-release
 
-https://img.shields.io/github/checks-status/baron-consultant/eg-bim-release/latest
+![GitHub Release](https://img.shields.io/github/v/release/baron-consultant/eg-bim-release)
